@@ -10,7 +10,7 @@ import React, { useState, useEffect } from "react";
 // figure out how can I implement it yet. So, my intention
 // was to create an app just using plain react and implementing
 // redux after it. In a nutshell, I have a chunk of code that
-// that doesn't work made up from me  :((
+// that doesn't work made up from me  :(((
 
 function App() {
   const [list, setList] = useState([
