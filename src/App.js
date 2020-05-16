@@ -1,17 +1,4 @@
 import React, { useState, useEffect } from "react";
-// Since I did not have how to start
-// in order to make a user
-// list and bid amounts I thought I could examine to-do app
-// examples so that I can copy and paste some part
-// them and try to elobrate the app further from there. I tried to
-// use hooks and I just used useState. Maybe I needed to use asloanother
-// one too. For redux
-// I tried to learn redux as well but I could not
-// figure out how can I implement it yet. So, my intention
-// was to create an app just using plain react and implementing
-// redux after it. In a nutshell, I have a chunk of code that
-// that doesn't work made up from me  :(((
-
 function App() {
   const [list, setList] = useState([
     { text: "John Doe : 7100" },
